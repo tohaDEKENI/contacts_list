@@ -56,12 +56,11 @@ contacts_list/
 git clone https://github.com/ton-github/contacts_list.git
 cd contacts_list
 python -m contacts_list
-python __main__.py
-
 
 👨‍💻 Auteur
 
 Toha Deken
 
 Étudiant en informatique & passionné par Python, développement d’applications et interfaces graphiques.
+
 
