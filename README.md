@@ -55,7 +55,10 @@ contacts_list/
 ```bash
 git clone https://github.com/ton-github/contacts_list.git
 cd contacts_list
+python __main__.py
+ou
 python -m contacts_list
+
 
 👨‍💻 Auteur
 
