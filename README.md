@@ -27,14 +27,23 @@ Développée avec **Python 3**, **Tkinter** pour l’interface graphique et **SQ
 
 ## 🏗️ Structure du projet
 contacts_list/
+
 │
+
 ├── assets/ # Images, icônes, captures d’écran
+
 ├── database/ # Dossier contenant la base SQLite
+
 │
+
 ├── init.py
+
 ├── main.py # Point d’entrée principal de l’application
+
 ├── database.py # Gestion de la base : insert, delete, fetch
+
 ├── ui.py # Interface graphique (Tkinter)
+
 └── README.md
 
 
@@ -55,3 +64,4 @@ python __main__.py
 Toha Deken
 
 Étudiant en informatique & passionné par Python, développement d’applications et interfaces graphiques.
+
